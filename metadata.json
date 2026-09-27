@@ -1,0 +1,6 @@
+{
+  "name": "CivicFix AI",
+  "description": "Vision-language citizen reporting system for civic infrastructure triage, severity ranking, and duplicate grouping.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
